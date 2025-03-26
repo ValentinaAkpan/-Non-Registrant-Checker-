@@ -7,3 +7,4 @@ streamlit-option-menu==0.3.6
 openpyxl==3.1.2
 python-docx==0.8.11
 thefuzz==0.19.0
+XlsxWriter
